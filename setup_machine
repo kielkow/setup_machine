@@ -38,3 +38,7 @@ sudo apt-get install git -y
 sudo apt update
 sudo apt install snapd
 snap install postman
+
+6 - Install MongoDB Compass
+wget https://downloads.mongodb.com/compass/mongodb-compass_1.40.2_amd64.deb
+sudo dpkg -i mongodb-compass_1.40.2_amd64.deb
